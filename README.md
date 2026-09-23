@@ -1,5 +1,9 @@
 **This is A List of GSIs which is similar to phhusson's GSI list which was Archived, This List Has The Android GSIs Released With Android 16**
 
+*THIS REPOSITORY USES THE CODE FROM ReeMos-GSI's REPOSITORY*
+
+*THIS GITHUB ACCOUNT'S OWNER IS ALSO THE OWNER OF ReeMos-GSI's Github ACCUONT
+
 *Please View Notes.md For Important Warnings*
 
 ## How to Choose a GSI
